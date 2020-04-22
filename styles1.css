@@ -33,10 +33,10 @@ display: inline-block;
 
 img {
   padding: 5px;
-  width: 370px;
+  width: 330px;
   position: absolute;
-  top: 190px;
-  right: 350px;
+  top: 170px;
+  right: 380px;
   border-style: ridge;
   border-width: 2px;
 }
