@@ -1,0 +1,79 @@
+h1 {
+  position: absolute;
+  left: 360px;
+  top: 0px;
+  font-size: 56px;
+  color: white;
+  text-shadow: 0 0 3px white, 0 0 8px #4f8dff;
+
+}
+ul li a{
+  background-color: #636363;
+  border: black 1px;
+  color: white;
+  padding: 20px 32px;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  position: absolute;
+  top: 30px;
+}
+
+ul li a {
+  transition-duration: 0.4s;
+}
+
+ul li a:hover {
+  background-color: #4f4f4f; 
+  color: white;
+}
+li {
+display: inline-block;
+}
+
+img {
+  padding: 5px;
+  width: 400px;
+  position: absolute;
+  top: 230px;
+  right: 350px;
+  transform: rotate(90deg);
+  border-style: ridge;
+  border-width: 2px;
+}
+
+.about-section {
+  padding: 60px;
+  text-align: center;
+  background: linear-gradient(to right, #00b6ef , #ae70ff , #ff00eb, #fa41a1)
+}
+
+p {
+  color: black;
+  font-size: 20px;
+  position: relative
+  padding: 20px;
+  margin-right: 420px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.section {
+  position: absolute;
+  width:800px;
+  top: 128px;
+  height: 600px;
+  background-color: white;
+  opacity: 70%; 
+  left: 85px;
+  padding: 20px;
+}
+.meat {
+  position: fixed;
+  right: 0px;
+  width: 250px;
+  background-color: grey;
+  height: 2000px;
+  top: 0px;
+
+}
