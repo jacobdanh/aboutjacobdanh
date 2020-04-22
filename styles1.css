@@ -37,7 +37,6 @@ img {
   position: absolute;
   top: 230px;
   right: 350px;
-  transform: rotate(90deg);
   border-style: ridge;
   border-width: 2px;
 }
